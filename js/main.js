@@ -27,7 +27,7 @@ $(".singer-conatiner h2").click(function () {
 })
 
 /*----------------------------------------------------*/
-let eventDate = new Date('July 1 2022 18:00:00');
+let eventDate = new Date('July 1 2023 18:00:00');
 
 //let dateDiff = Math.floor((eventDate - timeNow) / 1000);
 // the differece between two objects is in "seconds*1000" so their may be fractions
